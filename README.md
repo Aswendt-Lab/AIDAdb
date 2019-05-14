@@ -18,6 +18,6 @@ GNU General Public License v3.0
 <details>
 <summary>REFERENCES</summary></b>
 
-+ AIDA<i>mri
-    + under review
++ AIDA<i>db [Pallast, Niklas, et al. "Cloud-based relational database for multimodal animal data." Database 2018 (2018).
+APA](https://academic.oup.com/database/article/doi/10.1093/database/bay124/5255128)
 + Allen Brain Reference Atlas [Oh, Seung Wook, et al. "A mesoscale connectome of the mouse brain." Nature 508.7495 (2014): 207.](https://www.nature.com/articles/nature13186)
