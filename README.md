@@ -12,3 +12,12 @@ Markus Aswendt (markus.aswendt@uk-koeln.de)[![alt text][1.2]][1]
 
 Need help? Chat with us and find answers to FAQs in the AIDA_Tools Gitter rooms: [![Gitter](https://badges.gitter.im/AIDA_tools/community.svg)](https://gitter.im/AIDA_tools/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
+___
+LICENSE
+GNU General Public License v3.0
+<details>
+<summary>REFERENCES</summary></b>
+
++ AIDA<i>mri
+    + under review
++ Allen Brain Reference Atlas [Oh, Seung Wook, et al. "A mesoscale connectome of the mouse brain." Nature 508.7495 (2014): 207.](https://www.nature.com/articles/nature13186)
