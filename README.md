@@ -2,7 +2,7 @@
 [1]: http://www.twitter.com/AswendtMarkus
 <!--social icon from https://github.com/carlsednaoui/gitsocial -->
 
-<img align="left" src="https://github.com/maswendt/AIDAhisto/blob/master/logo.png"><h1>AIDA<i>histo</i></h1>
+<img align="left" src="https://github.com/maswendt/AIDAdb/blob/master/logo.png"><h1>AIDA<i>db</i></h1>
 
 Online research database to acquire and manage preclinical experiments and for an effective knowledge and information management at all levels of the Allen Brain Reference Atlas
 
