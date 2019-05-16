@@ -2,11 +2,15 @@
 [1]: http://www.twitter.com/AswendtMarkus
 <!--social icon from https://github.com/carlsednaoui/gitsocial -->
 
-<img align="left" src="https://github.com/maswendt/AIDAdb/blob/master/logo.png"><h1>AIDA<i>db</i></h1>
+<img align="left" src="https://github.com/maswendt/AIDAdb/blob/master/logo.png"><h1>AIDA<i>db</i></h1> 1) preclinical research database for data acquisistion, management and documentation <p> 2) database to retrieve information from the Allen Brain Reference Atlas</b>
 
-Online research database to acquire and manage preclinical experiments and for an effective knowledge and information management at all levels of the Allen Brain Reference Atlas</b>
+STEP1
+To use the database, create an account here: https://ninoxdb.de/de/templates/research. Find detailed information about the included features and how to use them in our paper and this video tutorial. 
 
-In order to simplify the search for specific region numbers (e.g. 582 = Caudoputamen) and list the related parental and child regions, we have summarized the ARA data available from http://download.alleninstitute.org/informatics-archive/current-release/mouse_ccf/annotation/ (© 2017 Allen Institute for Brain Science. Allen Mouse Brain Atlas (ccf3)) in an online database software, which we are using also for managing research data (https://doi.org/10.1093/database/bay124). To use the database, create an account here: https://ninoxdb.de/de/templates/research and import via the “Import archive” function the file https://github.com/maswendt/AIDAdb/blob/master/ARA/DB_AllenReferenceAtlas.ninox.
+STEP2
+Use the “Import archive” function to load the file https://github.com/maswendt/AIDAdb/blob/master/ARA/DB_AllenReferenceAtlas.ninox. This will show you all labels and their related parents/child 
+
+In order to simplify the search for specific region numbers (e.g. 582 = Caudoputamen) and list the related parental and child regions, we have summarized the ARA data available from http://download.alleninstitute.org/informatics-archive/current-release/mouse_ccf/annotation/ (© 2017 Allen Institute for Brain Science. Allen Mouse Brain Atlas (ccf3)) in an online database software, which we are using also for managing research data (https://doi.org/10.1093/database/bay124). 
 
 [<h3><b>CONTACT</h3></b>](https://neurologie.uk-koeln.de/forschung/ag-neuroimaging-und-neuroengineering/)
 Niklas Pallast (niklas.pallast@uk-koeln.de) and 
