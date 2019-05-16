@@ -1,16 +1,22 @@
 [1.2]: http://i.imgur.com/wWzX9uB.png
 [1]: http://www.twitter.com/AswendtMarkus
+[2]: https://ninoxdb.de/de/templates/research
+[3]: https://academic.oup.com/database/article/doi/10.1093/database/bay124/5255128
+[4]: https://github.com/maswendt/AIDAdb/blob/master/Database_Tutorialv2.m4v
+[5]: https://github.com/maswendt/AIDAdb/blob/master/ARA/DB_AllenReferenceAtlas.ninox
+[6]: http://download.alleninstitute.org/informatics-archive/current-release/mouse_ccf/annotation/
 <!--social icon from https://github.com/carlsednaoui/gitsocial -->
 
-<img align="left" src="https://github.com/maswendt/AIDAdb/blob/master/logo.png"><h1>AIDA<i>db</i></h1> 1) preclinical research database for data acquisistion, management and documentation <p> 2) database to retrieve information from the Allen Brain Reference Atlas</b>
+<img align="left" src="https://github.com/maswendt/AIDAdb/blob/master/logo.png"><h1>AIDA<i>db</i></h1> <b> 1. preclinical research database for acquisistion, management and documentation <p>2. database to browse through the ontology of the Allen Brain Reference Atlas labels. Simplifies the search for specific region numbers and lists the related parental and child regions</b>
 
-STEP1
-To use the database, create an account here: https://ninoxdb.de/de/templates/research. Find detailed information about the included features and how to use them in our paper and this video tutorial. 
+<p><h3>STEP 1 - Research database</h3> 
 
-STEP2
-Use the “Import archive” function to load the file https://github.com/maswendt/AIDAdb/blob/master/ARA/DB_AllenReferenceAtlas.ninox. This will show you all labels and their related parents/child 
-
-In order to simplify the search for specific region numbers (e.g. 582 = Caudoputamen) and list the related parental and child regions, we have summarized the ARA data available from http://download.alleninstitute.org/informatics-archive/current-release/mouse_ccf/annotation/ (© 2017 Allen Institute for Brain Science. Allen Mouse Brain Atlas (ccf3)) in an online database software, which we are using also for managing research data (https://doi.org/10.1093/database/bay124). 
+To use the database, create an account [<b>here</b>][2]. Find detailed information about the included features and how to use them in our [<b>paper</b>][3] and this [<b>video tutorial</b>][4]. 
+<img align="middle" src="https://github.com/maswendt/AIDAdb/blob/master/screenshot_database.png" width="700"> 
+<p><h3>STEP 2 - Atlas database</h3>
+Use the “Import archive” function to load the [file][5]. This will show you all labels and their related parents/child 
+a from [© 2017 Allen Institute for Brain Science][6].
+<img align="middle" src="https://github.com/maswendt/AIDAdb/blob/master/screenshot_database_ara.png" width="700"> 
 
 [<h3><b>CONTACT</h3></b>](https://neurologie.uk-koeln.de/forschung/ag-neuroimaging-und-neuroengineering/)
 Niklas Pallast (niklas.pallast@uk-koeln.de) and 
