@@ -14,9 +14,10 @@
 
 To use the database, create an account [<b>here</b>][2]. Find detailed information about the included features and how to use them in our [<b>paper</b>][3] and this [<b>video tutorial</b>][4]. 
 <img align="middle" src="https://github.com/maswendt/AIDAdb/blob/master/screenshot_database.png" width="700"> 
-<p><h3>STEP 2 - Atlas database</h3>
-Use the “Import archive” function to load the [file][5]. This will show you all labels and their related parents/child 
-a from [© 2017 Allen Institute for Brain Science][6].
+
+<p><h3>STEP 2 - Atlas database</h3> 
+
+Use the “Import archive” function to load the [<b>file</b>][5]. This will show you all labels and their related parents/child annotations with screenshots - all data available from the [© 2017 Allen Institute for Brain Science][6].
 <img align="middle" src="https://github.com/maswendt/AIDAdb/blob/master/screenshot_database_ara.png" width="700"> 
 
 [<h3><b>CONTACT</h3></b>](https://neurologie.uk-koeln.de/forschung/ag-neuroimaging-und-neuroengineering/)
