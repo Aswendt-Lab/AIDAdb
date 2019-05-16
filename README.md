@@ -7,7 +7,8 @@
 [6]: http://download.alleninstitute.org/informatics-archive/current-release/mouse_ccf/annotation/
 <!--social icon from https://github.com/carlsednaoui/gitsocial -->
 
-<img align="left" src="https://github.com/maswendt/AIDAdb/blob/master/logo.png"><h1>AIDA<i>db</i></h1> <b> 1. preclinical research database for acquisistion, management and documentation <p>2. database to browse through the ontology of the Allen Brain Reference Atlas labels. Simplifies the search for specific region numbers and lists the related parental and child regions</b>
+<img align="left" src="https://github.com/maswendt/AIDAdb/blob/master/logo.png"><h1>AIDA<i>db</i></h1> <b> 1. preclinical research database for data acquisistion, management and documentation <p>
+  2. database to browse through the ontology of the Allen Brain Reference Atlas labels. Simplifies the search for specific region numbers and lists the related parental and child regions</b>
 
 <p><h3>STEP 1 - Research database</h3> 
 
@@ -26,8 +27,7 @@ Need help? Chat with us and find answers to FAQs in the AIDA_Tools Gitter rooms:
 
 ___
 LICENSE
-GNU General Public License v3.0
-Creative Commons CC BY: Video tutorial from the publication Niklas Pallast, Frederique Wieters, Marieke Nill, Gereon R Fink, Markus Aswendt, Cloud-based relational database for multimodal animal data, Database, Volume 2018, 2018, bay124, https://doi.org/10.1093/database/bay124
+<p> GNU General Public License v3.0 <p>Creative Commons CC BY: Video tutorial from the publication Niklas Pallast, Frederique Wieters, Marieke Nill, Gereon R Fink, Markus Aswendt, Cloud-based relational database for multimodal animal data, Database, Volume 2018, 2018, bay124, https://doi.org/10.1093/database/bay124
 
 <details>
 <summary>REFERENCES</summary></b>
