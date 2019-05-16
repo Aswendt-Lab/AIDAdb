@@ -5,6 +5,7 @@
 [4]: https://github.com/maswendt/AIDAdb/blob/master/Database_Tutorialv2.m4v
 [5]: https://github.com/maswendt/AIDAdb/blob/master/ARA/DB_AllenReferenceAtlas.ninox
 [6]: http://download.alleninstitute.org/informatics-archive/current-release/mouse_ccf/annotation/
+[7]: https://ninoxdb.de/en/
 <!--social icon from https://github.com/carlsednaoui/gitsocial -->
 
 <img align="left" src="https://github.com/maswendt/AIDAdb/blob/master/logo.png"><h1>AIDA<i>db</i></h1> <b> 1. preclinical research database for data acquisistion, management and documentation <p>
@@ -27,8 +28,10 @@ Markus Aswendt (markus.aswendt@uk-koeln.de)[![alt text][1.2]][1]
 Need help? Chat with us and find answers to FAQs in the AIDA_Tools Gitter rooms: [![Gitter](https://badges.gitter.im/AIDA_tools/community.svg)](https://gitter.im/AIDA_tools/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 ___
-LICENSE
-<p> GNU General Public License v3.0 <p>Creative Commons CC BY: Video tutorial from the publication Niklas Pallast, Frederique Wieters, Marieke Nill, Gereon R Fink, Markus Aswendt, Cloud-based relational database for multimodal animal data, Database, Volume 2018, 2018, bay124, https://doi.org/10.1093/database/bay124
+Copyright
+
+The database files were created with [Ninox software][7] (Ninox Software GmbH, Kastanienallee 32, 10435 Berlin, Germany). 
+<p>Creative Commons CC BY: Video tutorial from the publication Niklas Pallast, Frederique Wieters, Marieke Nill, Gereon R Fink, Markus Aswendt, Cloud-based relational database for multimodal animal data, Database, Volume 2018, 2018, bay124, https://doi.org/10.1093/database/bay124
 
 <details>
 <summary>REFERENCES</summary></b>
