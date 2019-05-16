@@ -27,8 +27,10 @@ Need help? Chat with us and find answers to FAQs in the AIDA_Tools Gitter rooms:
 ___
 LICENSE
 GNU General Public License v3.0
+Creative Commons CC BY: Video tutorial from the publication Niklas Pallast, Frederique Wieters, Marieke Nill, Gereon R Fink, Markus Aswendt, Cloud-based relational database for multimodal animal data, Database, Volume 2018, 2018, bay124, https://doi.org/10.1093/database/bay124
+
 <details>
 <summary>REFERENCES</summary></b>
 
 + AIDA<i>db [Pallast, Niklas, et al. "Cloud-based relational database for multimodal animal data." Database 2018 (2018)](https://academic.oup.com/database/article/doi/10.1093/database/bay124/5255128)
-+ Allen Brain Reference Atlas [Oh, Seung Wook, et al. "A mesoscale connectome of the mouse brain." Nature 508.7495 (2014): 207.](https://www.nature.com/articles/nature13186)
++ Allen Brain Reference Atlas [Oh, Seung Wook, et al. "A mesoscale connectome of the mouse brain." Nature 508.7495 (2014): 207.](https://www.nature.com/articles/nature13186) and [Lein, E.S. et al. "Genome-wide atlas of gene expression in the adult mouse brain" Nature 445: 168-176 (2007)[doi:10.1038/nature05453]
