@@ -32,7 +32,7 @@ Copyright
 
 The database files were created with [Ninox software][7] (Ninox Software GmbH, Kastanienallee 32, 10435 Berlin, Germany).
 <p>Creative Commons CC BY: Video tutorial from the publication Niklas Pallast, Frederique Wieters, Marieke Nill, Gereon R Fink, Markus Aswendt, Cloud-based relational database for multimodal animal data, Database, Volume 2018, 2018, bay124, https://doi.org/10.1093/database/bay124
-<p>© 2007 Allen Institute for Brain Science. Allen Mouse Brain Atlas. Available from: "mouse.brain-map.org"
+<p>© 2007 Allen Institute for Brain Science. Allen Mouse Brain Atlas. Available from: (https://mouse.brain-map.org)
 
 <details>
 <summary>REFERENCES</summary></b>
