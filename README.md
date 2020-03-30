@@ -6,6 +6,7 @@
 [5]: https://github.com/maswendt/AIDAdb/blob/master/ARA/DB_AllenReferenceAtlas.ninox
 [6]: http://download.alleninstitute.org/informatics-archive/current-release/mouse_ccf/annotation/
 [7]: https://ninoxdb.de/en/
+[8]: https://github.com/maswendt/AIDAdb/blob/master/Database/Template%20Research%20Database_v2.ninox
 <!--social icon from https://github.com/carlsednaoui/gitsocial -->
 
 <img align="left" src="https://github.com/maswendt/AIDAdb/blob/master/logo.png"><h1>AIDA<i>db</i></h1> <b> 1. preclinical research database for data acquisistion, management and documentation <p>
@@ -13,7 +14,7 @@
 
 <p><h3>STEP 1 - Research database</h3> 
 
-To use the database, create an account [<b>here</b>][2]. Find detailed information about the included features and how to use them in our [<b>paper</b>][3] and this [<b>video tutorial</b>][4]. 
+To use the database, create an account [<b>here</b>][2]. Find detailed information about the included features and how to use them in our [<b>paper</b>][3] and this [<b>video tutorial</b>][4]. Use the “Import archive” function to load the [<b>file</b>][8].
 <img align="middle" src="https://github.com/maswendt/AIDAdb/blob/master/screenshot_database.png" width="700"> 
 
 <p><h3>STEP 2 - Atlas database</h3> 
