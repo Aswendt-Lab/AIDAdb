@@ -3,7 +3,7 @@
 [2]: https://ninoxdb.de/de/templates/research
 [3]: https://academic.oup.com/database/article/doi/10.1093/database/bay124/5255128
 [4]: https://github.com/maswendt/AIDAdb/blob/master/Database_Tutorialv2.m4v
-[5]: https://github.com/maswendt/AIDAdb/blob/master/ARA/DB_AllenReferenceAtlas.ninox
+[5]: https://github.com/maswendt/AIDAdb/blob/master/Database_atlas/DB_AllenReferenceAtlas.ninox
 [6]: http://download.alleninstitute.org/informatics-archive/current-release/mouse_ccf/annotation/
 [7]: https://ninoxdb.de/en/
 [8]: https://github.com/maswendt/AIDAdb/blob/master/Database/Template%20Research%20Database_v2.ninox
@@ -14,12 +14,12 @@
 
 <p><h3>STEP 1 - Research database</h3> 
 
-To use the database, create an account [<b>here</b>][2]. Find detailed information about the included features and how to use them in our [<b>paper</b>][3] and this [<b>video tutorial</b>][4]. Use the “Import archive” function to load the [<b>file</b>][8].
+To use the database, create an account [<b>here</b>][2]. Find detailed information about the included features and how to use them in our [<b>paper</b>][3] and this [<b>video tutorial</b>][4]. Use the “Import archive” function to load the template [<b>file</b>][8].
 <img align="middle" src="https://github.com/maswendt/AIDAdb/blob/master/screenshot_database.png" width="700"> 
 
 <p><h3>STEP 2 - Atlas database</h3> 
 
-Use the “Import archive” function to load the [<b>file</b>][5]. This will show you all labels and their related parents/child annotations with screenshots of the Allen Mouse Brain Atlas. 
+Use the “Import archive” function to load the template [<b>file</b>][5]. This will show you all labels and their related parents/child annotations with screenshots of the Allen Mouse Brain Atlas. 
 <img align="middle" src="https://github.com/maswendt/AIDAdb/blob/master/screenshot_database_ara.png" width="700"> 
 
 [<h3><b>CONTACT</h3></b>](https://neurologie.uk-koeln.de/forschung/ag-neuroimaging-und-neuroengineering/)
